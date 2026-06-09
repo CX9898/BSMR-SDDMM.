@@ -2,7 +2,7 @@
 
 This repository was created to support the GitHub URL referenced in the published paper:
 
-> Block-structured matrix reordering for efficient SDDMM on tensor cores
+**Block-structured matrix reordering for efficient SDDMM on tensor cores**
 
 The actual project repository is available at:
 
